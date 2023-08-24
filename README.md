@@ -3,5 +3,5 @@
 ### About Me:
 <p>Sou Gian, estudante de Análise e Desenvolvimento de Sistemas na UNINTER.</p>
 
-###Languages and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Languages and Tools:
+<p>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</p>

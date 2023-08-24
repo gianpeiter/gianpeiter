@@ -4,6 +4,12 @@
 <p>
 Sou Gian, estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
 </p>
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianpeiter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gianpeiter">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianpeiter&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

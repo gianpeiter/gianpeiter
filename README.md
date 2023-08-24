@@ -3,6 +3,12 @@
 <p>
 Sou Gian, estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
 </p>
+
+<div align="left">
+  <a href="https://github.com/santosrafaella">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gianpeiter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianpeiter&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

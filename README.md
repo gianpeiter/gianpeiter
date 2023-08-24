@@ -6,7 +6,7 @@
 ## About Me:
 </div>
 <p align='center'>
-Sou Gian, estou no ramo da programação desde 2016 e comecei recentemente a cursar Análise e Desenvolvimento de Sistemas na universidade UNINTER, pretendendo seguir nesse ramo da tecnologia.
+Sou Gian, estou no ramo da programação desde 2016 e comecei recentemente a cursar Análise e Desenvolvimento de Sistemas na universidade <a href="https://www.uninter.com/">UNINTER</a>, pretendendo seguir nesse ramo da tecnologia.
 </p>
 <br>
 <div align="center">

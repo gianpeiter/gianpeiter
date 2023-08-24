@@ -1,16 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&color=000000&vCenter=true&width=435&lines=Hi+there%2C+name's+Gian!+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 ## About Me:
-
 <p>
 Sou Gian, estudante de Análise e Desenvolvimento de Sistemas na UNINTER.
 </p>
-<br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gianpeiter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/gianpeiter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianpeiter&layout=compact&langs_count=7&theme=tokyonight"/>
-<div>
-
+  
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)

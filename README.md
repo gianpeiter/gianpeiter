@@ -5,9 +5,6 @@
 
 ## About Me:
 </div>
-<p align='center'>
-Sou Gian e sou um entusiasta da programação com uma paixão pelo desenvolvimento de software. Desde 2016, venho explorando o vasto mundo da programação e mergulhando em suas complexidades fascinantes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://www.uninter.com/">UNINTER</a>, uma experiência que tem sido incrivelmente enriquecedora. Esta oportunidade me permite mergulhar ainda mais profundamente no mundo da programação, adquirindo um entendimento sólido de teoria e prática.
-</p>
 <br>
 <div align="center">
   <a href="https://github.com/gianpeiter">
